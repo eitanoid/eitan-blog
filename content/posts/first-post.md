@@ -1,7 +1,7 @@
 +++
 date = '2025-01-30T12:59:26Z'
-draft = true
-title = 'First Post'
+draft = false
+title = 'First Post - Starting a Blog'
 +++
 
 
