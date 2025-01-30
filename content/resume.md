@@ -1,11 +1,11 @@
 +++
-title = "Resume"
+title = ""
 description = "My Resume"
-date = "2019-02-28"
-# aliases = ["about-us", "about-hugo", "contact"]
+date = "2025-01-30"
 author = "Eitan"
 +++
 
-Just testing this for now. 
 
-<object data="/resume.pdf" type="application/pdf" width="100%" height="100%">
+## My resume, as of January 2025:
+
+<object data="/resume.pdf" type="application/pdf" width="100%" height="1000px">

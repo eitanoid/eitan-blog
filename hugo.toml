@@ -1,7 +1,7 @@
 
-baseURL = "https://www.eitanoid.com/"
+baseURL = "https://blog.eitanoid.com/"
 languageCode = "en-us"
-title = "Eitan's Blog"
+title = ""
 theme = "paper"
 
 [params]
@@ -9,7 +9,7 @@ theme = "paper"
   color = 'gray'                           # linen, wheat, gray, light
 
   github = 'eitanoid'                 # github.com/YOUR_GITHUB_ID
-  # linkedin = 'eitan-ostashinski'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  linkedin = 'eitan-ostashinski'             # linkedin.com/in/YOUR_LINKEDIN_ID
 
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
@@ -27,27 +27,35 @@ theme = "paper"
       unsafe = true
 
 [menu]
+  [[menu.main]]
+    identifier = ""
+    name = "Home"
+    url = "/"
+    weight = 1
 
-  [[menu.main]]
-    identifier = "math"
-    name = "Mathematics"
-    url = "/math/"
-    weight = 10
-  [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume/"
-    weight = 10
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 10
+    weight = 2
+
+  [[menu.main]]
+    identifier = "math"
+    name = "Maths"
+    url = "/math/"
+    weight = 3
+
   [[menu.main]]
     identifier = "reading-list"
     name = "Reading"
     url = "/reading-list/"
-    weight = 10
+    weight = 4
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 5
 
 
 [taxonomies]
