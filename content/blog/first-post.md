@@ -2,6 +2,8 @@
 date = '2025-01-30T12:59:26Z'
 draft = false
 title = 'First Post - Starting a Blog'
+tags = ["overview"]
+catagories = ["blog"]
 +++
 
 

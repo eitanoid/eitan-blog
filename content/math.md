@@ -1,11 +1,18 @@
 +++
-title = "Mathathematics"
+title = "Mathematics"
 description = "My Mathematics"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+# aliases = ["about-us", "about-hugo", "contact"]
 author = "Eitan"
 +++
 
 Just testing this for now.
 
-![example](img.png)
+{{< figure
+  src="/images/img.png"
+  alt="crow3"
+  link=""
+  caption=""
+  class="ma0 w-75"
+>}}
+

@@ -2,7 +2,7 @@
 title = "My Reading List"
 description = "My Reading List"
 date = "2025-01-30"
-aliases = []
+# aliases = []
 author = "Eitan"
 +++
 I have compiled a list of books I found helpful, insightful or overall interesting and made use of in the past. 

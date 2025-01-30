@@ -2,6 +2,8 @@
 date = '2025-01-29T19:44:49Z'
 draft = true
 title = 'Signed Symmetric Group'
+tags = ["overview"]
+catagories = ["mathematics", "group theory"]
 +++
 
 
