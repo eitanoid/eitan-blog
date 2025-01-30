@@ -43,6 +43,11 @@ theme = "paper"
     name = "Blog"
     url = "/blog/"
     weight = 10
+  [[menu.main]]
+    identifier = "reading-list"
+    name = "Reading"
+    url = "/reading-list/"
+    weight = 10
 
 
 [taxonomies]

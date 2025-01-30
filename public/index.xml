@@ -6,21 +6,28 @@
     <description>Recent content on Eitan&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2025 19:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:59:26 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 30 Jan 2025 12:59:26 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;starting-a-blog&#34;&gt;Starting a Blog&lt;/h1&gt;&#xA;&lt;p&gt;Recently, I decided to start a blog to document my thoughts and decisions throughout my various projects and interests.&#xA;I’ve often found that looking at finished products doesn’t fully capture the reasoning and problem-solving process behind them.&#xA;By writing things down, I hope to create a useful reference for myself while also sharing insights with anyone who might find them interesting.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h3&gt;&#xA;&lt;p&gt;I am currently studying for a Masters degree in Mathematics at the University of York, with strong interests in Analysis, Algebra, Computation, and Finance.&#xA;I explore these topics through of my coursework, research, and personal projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Reading List</title>
+      <link>http://localhost:1313/reading-list/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reading-list/</guid>
+      <description>&lt;p&gt;I have compiled a list of books I found helpful, insightful or overall interesting and made use of in the past.&lt;/p&gt;&#xA;&lt;h2 id=&#34;set-theory&#34;&gt;Set Theory&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Set Theory and Logic - Robert R. Stoll&lt;/li&gt;&#xA;&lt;li&gt;Cardinal and Ordinal Numbers, Wacław Sierpiński&lt;/li&gt;&#xA;&lt;li&gt;The Axiom of Choice, Thomas Jech&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;abstract-algebra&#34;&gt;Abstract Algebra&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An Introduction to the Theory of Groups, Rotman, Joseph J&lt;/li&gt;&#xA;&lt;li&gt;Representations and Characters of Groups, Gordon James, Martin Liebeck&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;analysis&#34;&gt;Analysis&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real Analysis (Third Edition), HL Royden&lt;/li&gt;&#xA;&lt;li&gt;Metric Spaces, Shirali n Vasudeva&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mechanics&#34;&gt;Mechanics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Classical Mechanics, John R Taylor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;coffee-roasting&#34;&gt;Coffee Roasting&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Modulating the Flavor Profile of Coffee - Rob Hoos&lt;/li&gt;&#xA;&lt;li&gt;The Coffee Roater&amp;rsquo;s Companion - Scott Rao&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;other-topics&#34;&gt;Other topics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automatic Fingerprint Recognition Systems, Simon A. Cole, Nalini Ratha, Ruud Bolle&lt;/li&gt;&#xA;&lt;li&gt;Digital Watermarking and Steganography, Frank Y. Shih&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Signed Symmetric Group</title>
       <link>http://localhost:1313/posts/signed-symmetric-group/</link>
       <pubDate>Wed, 29 Jan 2025 19:44:49 +0000</pubDate>
       <guid>http://localhost:1313/posts/signed-symmetric-group/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Over the summer of 2024 I alongside  began an investigation into 2 questions posed by our academic supervisor.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Find a complete characterisation of $\mathrm{Aut}S_n$, including the special cases of $n = 2,6$.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Describe the group $\mathrm{Aut}S_n^{\pm}$, where $S_n^\pm = \left{ \alpha(a) = \alpha(-a) \mid \alpha \in S_{{-n, -(n-1), \dots, -1, 1, \dots, n-1, n}} \right}$.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Throughout the project, we discovered a representation of $S_n^\pm$ as a (finite permutational restricted) wreath product $S_n^\pm = C_m \wr_n S_n$. Following this more questions arose:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 29 Jan 2025 10:03:30 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-title&#34;&gt;This is a title&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-TeX&#34; data-lang=&#34;TeX&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{itemize}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;\item&lt;/span&gt; this is a tex code block&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{itemize}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;bold test is crazy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is NOT an image!&lt;/p&gt;&#xA;&lt;p&gt;$$\int \Sigma_{n=0}^\infty f_n(x);dx$$&lt;/p&gt;&#xA;&lt;p&gt;Testing!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mathathematics</title>
