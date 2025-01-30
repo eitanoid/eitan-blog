@@ -1,5 +1,5 @@
 
-baseURL = "https://blog.eitanoid.com/"
+baseURL = "https://eitanoid.com/"
 languageCode = "en-us"
 title = ""
 theme = "paper"
@@ -9,7 +9,7 @@ theme = "paper"
   color = 'gray'                           # linen, wheat, gray, light
 
   github = 'eitanoid'                 # github.com/YOUR_GITHUB_ID
-  linkedin = 'eitan-ostashinski'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # linkedin = 'eitan-ostashinski'             # linkedin.com/in/YOUR_LINKEDIN_ID
 
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
