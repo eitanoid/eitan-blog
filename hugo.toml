@@ -39,11 +39,11 @@ theme = "paper"
     url = "/blog/"
     weight = 2
 
-  [[menu.main]]
-    identifier = "math"
-    name = "Maths"
-    url = "/math/"
-    weight = 3
+  # [[menu.main]]
+  #   identifier = "math"
+  #   name = "Maths"
+  #   url = "/math/"
+  #   weight = 3
 
   [[menu.main]]
     identifier = "reading-list"
@@ -51,11 +51,11 @@ theme = "paper"
     url = "/reading-list/"
     weight = 4
 
-  [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume/"
-    weight = 5
+  # [[menu.main]]
+  #   identifier = "resume"
+  #   name = "Resume"
+  #   url = "/resume/"
+  #   weight = 5
 
 
 [taxonomies]
