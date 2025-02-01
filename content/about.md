@@ -24,4 +24,8 @@ func main(){
 }
 ```
 
+> [!IDEA] John
+> This is johnathan
+
+
 $$\mathbb{N}$$

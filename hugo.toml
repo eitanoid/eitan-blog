@@ -1,7 +1,7 @@
 
 baseURL = "https://eitanoid.com/"
-title = ""
-theme = "hugo-blog-awesome"
+title = "Eitan's Blog"
+theme = ["hugo-admonitions","hugo-blog-awesome"]
 
 name = 'Eitan'
 bio = 'Mathematician, computer and coffee enthusiast.'
@@ -15,7 +15,6 @@ defaultContentLanguage = "en-gb"
 enableEmoji = true
 
 [params]
-	monoDarkIcon = true # show monochrome dark mode icon
 	math = true         # enable KaTeX math typesetting globally
 	goToTop = true      # enable go to top button in posts
 	toc = true # enable table of contents globally
@@ -46,7 +45,7 @@ url = "/index.xml"
 	[markup.tableOfContents]
 		startLevel = 2             # ToC starts from H2
 		endLevel = 4               # ToC ends at H4
-		ordered = false            # generates <ul> instead of <ol>
+		ordered = true            # generates <ul> instead of <ol>
 
 [menu]
   [[menu.main]]
