@@ -24,6 +24,3 @@ Throughout the project, we re-discovered a representation of $S_n^\pm$ as a semi
 1. What is the minimal generating set of $S_n^\pm$, and by extension of $C_2 \wr S_n$. For $S_N$ This answer is known to be $2$.
 
 2. What is the automorphism group $\mathrm{Aut}C_m \wr S_n$? How far can we generalise this?
-
-
-

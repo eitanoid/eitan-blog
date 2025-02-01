@@ -6,4 +6,8 @@ categories = []
 tags = []
 series = []
 draft = true
+
+goToTop = true
+toc = true
+tocOpen = false
 +++

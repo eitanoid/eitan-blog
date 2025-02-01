@@ -1,7 +1,7 @@
 +++
 date = ''
 draft = false
-title = 'Blog'
+title = 'Posts'
 categories = []
 tags = []
 series = []
