@@ -1,30 +1,52 @@
 
 baseURL = "https://eitanoid.com/"
-languageCode = "en-us"
 title = ""
-theme = "paper"
+theme = "hugo-blog-awesome"
+
+name = 'Eitan'
+bio = 'Mathematician, computer and coffee enthusiast.'
+
+# This is what goes in <html lang="">
+languageCode = "en-us"
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+enableEmoji = true
 
 [params]
-  # color style
-  color = 'gray'                           # linen, wheat, gray, light
+	monoDarkIcon = true # show monochrome dark mode icon
+	math = true         # enable KaTeX math typesetting globally
+	goToTop = true      # enable go to top button in posts
+	toc = true # enable table of contents globally
+	tocOpen = false # close toc by default
 
-  github = 'eitanoid'                 # github.com/YOUR_GITHUB_ID
-  # linkedin = 'eitan-ostashinski'             # linkedin.com/in/YOUR_LINKEDIN_ID
+[params.author]
+  intro = "Personal Blog"
+  name = "Eitan"
+  description = "My personal blog to document and showcase my interest in mathematics, computer science, programming and coffee."
 
-  # home page profile
-  # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'Eitan'
-  bio = 'Mathematician, computer and coffee enthusiast.'
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/eitanoid"
 
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  math = true                               # enable KaTeX math typesetting globally
-  localKatex = false                        # use local KaTeX js/css instead of CDN
+# [[params.socialIcons]]
+# name = "linkedin"
+# url = ""
 
-# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
+
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+	[markup.highlight]
+		noClasses = false          # set markup.highlight.noClasses=false to enable code highlight
+	[markup.goldmark.renderer]
+		unsafe = true              # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+	[markup.tableOfContents]
+		startLevel = 2             # ToC starts from H2
+		endLevel = 4               # ToC ends at H4
+		ordered = false            # generates <ul> instead of <ol>
 
 [menu]
   [[menu.main]]
@@ -39,24 +61,11 @@ theme = "paper"
     url = "/blog/"
     weight = 2
 
-  # [[menu.main]]
-  #   identifier = "math"
-  #   name = "Maths"
-  #   url = "/math/"
-  #   weight = 3
-
   [[menu.main]]
     identifier = "reading-list"
     name = "Reading"
     url = "/reading-list/"
     weight = 4
-
-  # [[menu.main]]
-  #   identifier = "resume"
-  #   name = "Resume"
-  #   url = "/resume/"
-  #   weight = 5
-
 
 [taxonomies]
 category = "categories"

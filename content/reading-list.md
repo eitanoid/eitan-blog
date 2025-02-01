@@ -23,11 +23,10 @@ I have compiled a list of books I found helpful, insightful or overall interesti
 - Classical Mechanics, John R Taylor
 
 ## Coffee Roasting
-
 - Modulating the Flavor Profile of Coffee - Rob Hoos
 - The Coffee Roater's Companion - Scott Rao
 
 ## Other topics
-
 - Automatic Fingerprint Recognition Systems, Simon A. Cole, Nalini Ratha, Ruud Bolle
 - Digital Watermarking and Steganography, Frank Y. Shih
+

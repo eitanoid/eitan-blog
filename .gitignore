@@ -1,2 +1,3 @@
-public/*
-assets/*
+/public/
+/resources/
+/hugo_stats.json
