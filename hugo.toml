@@ -20,6 +20,7 @@ enableEmoji = true
 	toc = true # enable table of contents globally
 	tocOpen = false # close toc by default
 
+
 [params.author]
   intro = "Personal Blog"
   name = "Eitan"
