@@ -22,24 +22,25 @@ tocOpen = false
 
 ## Ingredients
 
-- roughly 150g beef cut into cubes or strips
-- 1 can of diced tomatos
-- 1 head of garlic (minced)
-- 1 onion (chopped)
-- 2 carrots (chopped)
-- 2 chillies (chopped)
-- 1 cup (roughly 160g) long grain rice
-- red cooking wine (to taste roughly 300ml)
-- olive oil
+> - roughly 150g beef cut into cubes or strips
+> - 1 can of diced tomatos
+> - 1 head of garlic (minced)
+> - 1 onion (chopped)
+> - 2 carrots (chopped)
+> - 2 chillies (chopped)
+> - 1 cup (roughly 160g) long grain rice
+> - red cooking wine (to taste roughly 300ml)
+> - olive oil
 
-- Salt
-- black pepper
-- oregano
-- paprika
-- cayane pepper
-- chilli powder
-- tomato paste
-- 1 chicken stock cube
+
+> - Salt
+> - black pepper
+> - oregano
+> - paprika
+> - cayane pepper
+> - chilli powder
+> - tomato paste
+> - 1 chicken stock cube
 
 ## Instruction
 
