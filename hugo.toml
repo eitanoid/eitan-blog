@@ -1,10 +1,6 @@
-
 baseURL = "https://eitanoid.com/"
 title = "Eitan's Blog"
 theme = ["hugo-admonitions","hugo-blog-awesome"]
-
-name = 'Eitan'
-bio = 'Mathematician, computer and coffee enthusiast.'
 
 # This is what goes in <html lang="">
 languageCode = "en-us"
@@ -22,9 +18,12 @@ enableEmoji = true
 
 
 [params.author]
+  description = "My personal blog to document and showcase my interest in mathematics, computer science, programming and coffee."
+  avatar = "" # ensure image has same height and width
+  background = ""
   intro = "Personal Blog"
   name = "Eitan"
-  description = "My personal blog to document and showcase my interest in mathematics, computer science, programming and coffee."
+
 
 [[params.socialIcons]]
 name = "github"

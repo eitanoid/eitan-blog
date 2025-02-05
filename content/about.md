@@ -9,23 +9,19 @@ toc = false
 tocOpen = false
 +++
 
-About!!!
-
-# BEES!
-
 ## Bees
 
 ### Bees
 
 ```Go
-
 func main(){
     fmt.Println("Hello World")
 }
 ```
 
-> [!IDEA] John
-> This is johnathan
+> [!IDEA] Test
+> Testing
 
 
 $$\mathbb{N}$$
+
