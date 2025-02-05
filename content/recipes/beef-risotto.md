@@ -11,6 +11,14 @@ toc = false
 tocOpen = false
 +++
 
+{{< figure
+  src="/recipes/beef-risotto/sauce.jpg"
+  alt=""
+  link=""
+  caption="Sauce being cooked"
+  class="ma0 w-50"
+>}}
+
 
 ## Ingredients
 
